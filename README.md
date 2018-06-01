@@ -7,7 +7,10 @@ Luis esteve aqui com o branch TesteA
 
 Murilo fez um teste aqui.
 
-if (1=1)
+
+var a = 2;
+
+if (a=1)
 	return "Luis é o cara.";
 else
 	return "Murilo é o cara.";
